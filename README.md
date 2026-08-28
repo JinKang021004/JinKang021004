@@ -14,7 +14,6 @@ PCIe, ACPI, SPDM, and pre-OS device security.
 
 - UEFI DXE driver design and protocol integration
 - PCIe device attestation and pre-OS DMA admission
-- ACPI and SMBIOS topology construction
 - Reproducible firmware validation with QEMU and OVMF
 
 ## Technical stack
